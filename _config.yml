@@ -1,6 +1,6 @@
 # JEKYLL - SITE SETTINGS
 
-title: Maya A. Norman
+title:
 email:
 description: >- # this means to ignore newlines until "baseurl:" This description will appear in your document head meta (for Google search results) and in your feed.xml site description.
 github_username: username
@@ -30,10 +30,10 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : " "
+  name   : "Maya A. Norman"
   avatar :  "/assets/images/fresh-kills-landfill-circa-1950.jpeg"
   #  caption : '[**Fresh Kills Landfill**](https://www.collectorsweekly.com/articles/wp-content/uploads/2013/06/fresh-kills-landfill-2b41798576e074251-709x1024.jpg){:target="_blank"} (~ 1950)'
-  bio : "Fresh Kills Landfill circa 1950"
+  bio : "Me and Fresh Kills Landfill circa 1950. Photo courtesy of collectors weekly."
   links:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope"
