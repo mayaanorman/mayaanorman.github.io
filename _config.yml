@@ -31,9 +31,8 @@ plugins:
 
 author:
   name   : "Maya A. Norman"
-  avatar : 
-    image : "/assets/images/fresh-kills-landfill-circa-1950.jpeg"
-    caption : '[**Fresh Kills Landfill**](https://www.collectorsweekly.com/articles/wp-content/uploads/2013/06/fresh-kills-landfill-2b41798576e074251-709x1024.jpg){:target="_blank"} (~ 1950)'
+  avatar :  "/assets/images/fresh-kills-landfill-circa-1950.jpeg"
+  #  caption : '[**Fresh Kills Landfill**](https://www.collectorsweekly.com/articles/wp-content/uploads/2013/06/fresh-kills-landfill-2b41798576e074251-709x1024.jpg){:target="_blank"} (~ 1950)'
   bio : "Hi! I am a PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development){:target="_blank"} at Columbia University. I do applied research on environmental topics with a particular focus on waste."
   links:
     - label: "Email"
