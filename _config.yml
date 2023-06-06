@@ -38,9 +38,9 @@ author:
   #  - label: "Email"
   #    icon: "fas fa-fw fa-envelope"
   #    url: "mailto:man2185@columbia.edu"
-  #  - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-  #    url: "https://github.com/manorman5"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/manorman5"
 
 footer:
 
