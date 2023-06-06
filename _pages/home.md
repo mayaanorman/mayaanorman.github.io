@@ -5,15 +5,15 @@ classes: wide
 permalink: /
 ---
 
-About Me:
+**About:**
 - I am a second year PhD student in Sustainable Development at Columbia University.
 - I do applied research on environmental topics with a particular focus on waste.
 - Previously, I worked as a research assistant at the Climate Impact Lab.
 - I hold a BA from Bowdoin College in Economics.
 
-Email: m [dot] a [dot] norman [at] columbia [dot] edu
+**Email:**  m [dot] a [dot] norman [at] columbia [dot] edu
 
-Working papers:
+**Working papers:**
 
 Discards, Wealth Transfers, and Informal Wages ([link](../docs/bottlebills.pdf))
 <details><summary>a little more info</summary>
