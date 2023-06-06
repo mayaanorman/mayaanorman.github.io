@@ -1,0 +1,186 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+# 'assets/css/main.css' is the theme's main stylesheet file, it loads SCSS partials located in _sass/
+---
+
+@import "minimal-mistakes";
+
+/* add any overriding/new CSS after the @import minimal-mistakes */
+
+
+/*==========================================================================
+   EDITS TO _sass/_base.scss
+==========================================================================*/
+
+/* nested list items */
+li ul,
+li ol {
+  margin-top: 0.5em;
+  font-size: 0.85em; // reduce font size
+}
+
+
+/*==========================================================================
+   EDITS TO _sass/_page.scss
+==========================================================================*/
+
+/* justify text: https://github.com/mmistakes/minimal-mistakes/issues/883 */
+
+.page__content {
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
+
+	h1, h2, h3, h4, h5, h6 {
+		.header-link {
+			position: relative;
+			left: 0.5em;
+			opacity: 0;
+			font-size: 0.8em;
+			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+			-moz-transition: opacity 0.2s ease-in-out 0.1s;
+			-o-transition: opacity 0.2s ease-in-out 0.1s;
+			transition: opacity 0.2s ease-in-out 0.1s;
+		}
+
+		&:hover .header-link {
+			opacity: 1;
+		}
+	}
+
+  p,
+  li,
+  dl {
+    font-size: 1em;
+  }
+
+  /* paragraph indents and alignment */
+  p {
+    margin: 0 0 $indent-var;
+    text-align: justify;  /* CPA ADDED */
+    text-justify: inter-word; /* CPA ADDED */
+
+    /* sibling indentation*/
+    @if $paragraph-indent == true {
+      & + p {
+        text-indent: $indent-var;
+        margin-top: -($indent-var);
+      }
+    }
+  }
+
+  a:not(.btn) {
+    &:hover {
+      text-decoration: underline;
+
+      img {
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+    }
+  }
+
+  :not(pre) > code {
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    font-size: 0.8em;
+    background: $code-background-color;
+    border-radius: $border-radius;
+
+    &::before,
+    &::after {
+      letter-spacing: -0.2em;
+      content: "\00a0"; /* non-breaking space*/
+    }
+  }
+
+  dt {
+    margin-top: 1em;
+    font-family: $sans-serif;
+    font-weight: bold;
+  }
+
+  dd {
+    margin-left: 1em;
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+  }
+
+  .small {
+    font-size: $type-size-6;
+  }
+
+  /* blockquote citations */
+  blockquote + .small {
+    margin-top: -1.5em;
+    padding-left: 1.25rem;
+  }
+}
+
+
+
+/*==========================================================================
+   EDITS TO _sass/_reset.scss
+==========================================================================*/
+
+.inner {
+  max-width: 80%;
+}
+
+.author__avatar {
+  img {
+    min-width: 180px;
+    max-width: 180px;
+  }
+}
+
+html {
+  font-size: 12px; //  when the screen size is less than $medium you have a base size of 12px
+
+  @include breakpoint($medium) {
+    font-size: 14px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 16px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px;
+  }
+}
+
+
+
+
+
+
+
+
+/*
+.sidebar {
+  p, li {
+    font-family: $sans-serif;
+    font-size: $type-size-6;
+    line-height: 1.5;
+  }
+}
+li {
+  font-size: 90%;
+}
+*/
+
+/* type scale: DEFAULTS
+* The type-size-x variables are just em-based sizes that act as multipliers of the base font sizes set in pixels. Ex: when the screen size is less than $medium you have a base size of 16px. If you set an element with $type-size-4 or 1.25em it's essentially doing 16 x 1.25 = 20px size. @medium and where the base size jumps to 18px you'll get 18 x 1.25 = 22.5px, @large 20px you'll get 20 x 1.25 = 25px, etc.
+* https://jayrobwilliams.com/posts/2020/07/customizing-website/
+* https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#text-alignment-and-styling
+* https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/
+$type-size-1 : 2.441em;  // ~39.056px
+$type-size-2 : 1.953em;  // ~31.248px
+$type-size-3 : 1.563em;  // ~25.008px
+$type-size-4 : 1.25em;   // ~20px
+$type-size-5 : 1em;      // ~16px
+$type-size-6 : 0.75em;   // ~12px
+$type-size-7 : 0.6875em; // ~11px
+$type-size-8 : 0.625em;  // ~10px
+*/
