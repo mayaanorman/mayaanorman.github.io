@@ -1,8 +1,8 @@
 ---
-title: Research
-author_profile: false
+title: Home
+author_profile: true
 classes: wide
-permalink: /research/
+permalink: /
 ---
 
 
