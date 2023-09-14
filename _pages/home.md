@@ -18,7 +18,8 @@ permalink: /
 click title for abstract
 <details><summary> <em>Bottle Redemption, Wealth Transfers, and Informal Wages</em> (<a href="https://mayaanorman.github.io/docs/bottlebills.pdf">link</a>) </summary>
 <p>
-This paper suggests that waste policy can improve birth outcomes in marginalized populations to a similar extent as EITC, a widely studied welfare program. Between 1973 and 1990, ten states introduced deposit refund programs for bottles. Policy introductions are associated with a .6-3.7 percent reduction in the incidence of low birth weight among mothers with less than a high school education. A simple labor supply model implies that deposit refund programs create opportunities for informal labor among the working poor. These results indicate that job opportunities created by deposit refund programs alleviated gaps in welfare policy during the study period. 
+This paper shows that waste policy can improve birth outcomes in marginalized populations to a similar extent as EITC, a widely studied welfare program. Between 1973 and 1990, ten states introduced deposit refund programs for beverage containers. Policy introductions are associated with a .6-3.7% reduction in the incidence of low birth weight among mothers with less than a high school education.
+A simple labor supply model implies that deposit refund programs create opportunities for informal labor among the working poor. This paper’s results indicate that informal work in recycling alleviated gaps in welfare policy during the study period.
 </p>
 </details>
 
