@@ -7,7 +7,6 @@ permalink: /
 
 **About:**
 - I am a third year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
-- I do applied research on environmental topics with a particular focus on waste.
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
 
