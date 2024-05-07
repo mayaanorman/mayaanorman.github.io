@@ -21,6 +21,7 @@ This paper shows that waste policy can improve birth outcomes in marginalized po
 A simple labor supply model implies that deposit refund programs create opportunities for informal labor among the working poor. This paper’s results indicate that informal work in recycling alleviated gaps in welfare policy during the study period.
 </em></P>
 </details>
+<BR>
 <details><summary> <em>Empirical Tests of the Green Paradox for Climate Legislation w. Wolfram Schlenker</em> (<a href="https://mayaanorman.github.io/docs/greenparadox.pdf">link</a>) </summary>
 <HR WIDTH="70%">
 <P style="max-width:70%"><em>
