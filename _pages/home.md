@@ -5,7 +5,7 @@ classes: wide
 permalink: /
 ---
 **About:**
-- I am a fourth year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
+- I am a fifth year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
 - I research how U.S. public institutions shape/are shaped by natural resource use and the environment.
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
