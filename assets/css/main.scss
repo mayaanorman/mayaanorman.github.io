@@ -110,6 +110,21 @@ li ol {
     font-size: $type-size-6;
   }
 
+  /* job market paper: bold title with its links on the line below */
+  .jmp {
+    margin-bottom: 1.5em;
+    line-height: 1.5;
+  }
+
+  .jmp__title {
+    font-weight: bold;
+  }
+
+  .jmp__links a {
+    font-size: 0.9em;
+    text-decoration: none;
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
