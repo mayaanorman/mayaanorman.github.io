@@ -149,11 +149,6 @@ li ol {
   }
 }
 
-/* keep top-bar links next to the name instead of pushed to the far right */
-.greedy-nav .visible-links {
-  justify-content: flex-start;
-}
-
 html {
   font-size: 12px; //  when the screen size is less than $medium you have a base size of 12px
 

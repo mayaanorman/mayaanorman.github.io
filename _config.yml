@@ -35,12 +35,12 @@ author:
   #  caption : '[**Fresh Kills Landfill**](https://www.collectorsweekly.com/articles/wp-content/uploads/2013/06/fresh-kills-landfill-2b41798576e074251-709x1024.jpg){:target="_blank"} (~ 1950)'
   # bio : "Me and Fresh Kills Landfill circa 1950. Photo courtesy of Collectors Weekly."
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/docs/cv_fall_2026.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:m.a.norman@columbia.edu"
-  #  - label: "CV"
-  #    icon: "fas fa-fw fa-file-pdf"
-  #    url: "/docs/cv_fall_2026.pdf"
 
 footer:
 
