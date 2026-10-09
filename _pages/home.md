@@ -35,7 +35,7 @@ Recycling — collecting discarded items and redeeming their scrap value — cha
 <div class="paper">
 <div class="paper__title"><a href="https://mayaanorman.github.io/docs/greenparadox.pdf"><em>Empirical Tests of the Green Paradox for Climate Legislation</em></a></div>
 <div class="paper__coauthor">with <a href="https://wolfram-schlenker.info/">Wolfram Schlenker</a></div>
-<div class="paper__status">Revise and Resubmit, <em>Journal of Public Economics</em></div>
+<div class="paper__status">R&amp;R at <em><u>Journal of Public Economics</u></em></div>
 <p class="paper__abstract">
 The Green Paradox posits that fossil fuel markets respond to changing expectations about climate legislation, which limits future consumption, by shifting consumption to the present through lower present-day prices. We demonstrate that oil futures responded negatively to daily changes in the prediction market's expectations that the Waxman-Markey bill — the US climate bill discussed in 2009-2010 — would pass. This effect is consistent across various maturities as the proposed legislation would reset the entire price and consumption path, unlike temporary supply or demand shocks that phase out over time. The bill’s passage would have increased current global oil consumption by 2-4%. Furthermore, a strengthening of climate policy, as measured by monthly variations in media salience regarding climate policy over the last four decades, and two court rulings signaling limited future fossil fuel use, were associated with negative abnormal oil future returns. Taken together, our findings confirm that restricting future fossil fuel use will accelerate current-day consumption.
 </p>

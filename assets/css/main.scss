@@ -142,8 +142,6 @@ li ol {
   /* publication status, e.g. revise and resubmit */
   .paper__status {
     font-size: 0.75em;
-    font-style: italic;
-    color: $muted-text-color;
   }
 
   .paper__abstract {
@@ -194,6 +192,28 @@ li ol {
     min-width: 180px;
     max-width: 180px;
   }
+
+  /* photo is not a link */
+  a {
+    pointer-events: none;
+    cursor: default;
+  }
+}
+
+/* sidebar at full strength instead of faded until hovered */
+.sidebar {
+  opacity: 1;
+
+  @include breakpoint($large) {
+    opacity: 1;
+  }
+}
+
+/* name in the top bar: full-strength text that is not a link */
+.greedy-nav a.site-title {
+  color: $text-color;
+  pointer-events: none;
+  cursor: default;
 }
 
 html {
