@@ -17,8 +17,8 @@ permalink: /
 **Job market paper:**
 
 <div class="jmp">
-<div class="jmp__title">Economic Tradeoffs and Institutional Guidance in Public Resource Allocation: Evidence from U.S. Public Lands</div>
-<div class="jmp__links"><a href="https://mayaanorman.github.io/docs/jmp_abstract_10_9_26.pdf">[Abstract]</a></div>
+<em>Economic Tradeoffs and Institutional Guidance in Public Resource Allocation:<br>
+Evidence from U.S. Public Lands</em> (<a href="https://mayaanorman.github.io/docs/jmp_abstract_10_9_26.pdf">link</a>)
 </div>
 
 **Working papers:**
