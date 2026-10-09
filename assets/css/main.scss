@@ -110,15 +110,23 @@ li ol {
     font-size: $type-size-6;
   }
 
-  /* space between a list of papers and the next section heading */
-  details + p {
-    margin-top: 1.5em;
+  /* papers: title line with the abstract shown underneath */
+  .paper {
+    margin-bottom: 1.75em;
   }
 
-  /* job market paper: title split over two lines at the colon */
-  .jmp {
-    margin-bottom: 1.5em;
+  .paper__title {
     line-height: 1.5;
+  }
+
+  .paper__abstract {
+    margin: 0.4em 0 0;
+    font-size: 0.9em;
+  }
+
+  /* extra space before the heading that follows a list of papers */
+  .paper + p {
+    margin-top: 2.5em;
   }
 
   /* blockquote citations */
