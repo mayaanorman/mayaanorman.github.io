@@ -139,6 +139,12 @@ li ol {
     }
   }
 
+  /* publication status, e.g. revise and resubmit */
+  .paper__status {
+    font-size: 0.85em;
+    color: $muted-text-color;
+  }
+
   .paper__abstract {
     margin: 0.4em 0 0;
     font-size: 0.6em;
