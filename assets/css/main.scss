@@ -141,7 +141,8 @@ li ol {
 
   /* publication status, e.g. revise and resubmit */
   .paper__status {
-    font-size: 0.85em;
+    font-size: 0.75em;
+    font-style: italic;
     color: $muted-text-color;
   }
 
