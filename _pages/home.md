@@ -10,8 +10,6 @@ permalink: /
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
 
-**Email:**  m [dot] a [dot] norman [at] columbia [dot] edu
-
 **Working papers:**
 
 click title for abstract

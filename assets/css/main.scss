@@ -134,9 +134,14 @@ li ol {
   }
 }
 
+/* keep top-bar links next to the name instead of pushed to the far right */
+.greedy-nav .visible-links {
+  justify-content: flex-start;
+}
+
 /* large CV button in the top bar, to the right of the name */
 .greedy-nav .visible-links a[href$=".pdf"] {
-  margin-left: 0.5em;
+  margin-left: 1.5rem;
   padding: 0.25em 1em;
   font-size: 1.4em;
   font-weight: bold;
@@ -153,11 +158,6 @@ li ol {
     color: #fff;
     background-color: $primary-color;
   }
-}
-
-/* the sidebar has no links left, so hide its empty "Follow" button */
-.author__urls-wrapper {
-  display: none;
 }
 
 html {
