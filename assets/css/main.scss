@@ -116,7 +116,18 @@ li ol {
   }
 
   .paper__title {
+    font-size: 1.1em;
+    font-weight: bold;
     line-height: 1.5;
+
+    /* the title is the link: no underline until hovered */
+    a {
+      text-decoration: none;
+    }
+  }
+
+  .paper__coauthor {
+    font-weight: normal;
   }
 
   .paper__abstract {
