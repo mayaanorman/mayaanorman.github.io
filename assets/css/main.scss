@@ -135,9 +135,9 @@ li ol {
     font-size: 0.6em;
     text-align: left; /* justified text leaves gaps in a narrow column */
 
-    /* a third of the column width on larger screens; full width on phones */
+    /* two thirds of the column width on larger screens; full width on phones */
     @include breakpoint($medium) {
-      max-width: 33%;
+      max-width: 66%;
     }
   }
 
