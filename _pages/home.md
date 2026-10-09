@@ -10,6 +10,10 @@ permalink: /
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
 
+**Job market paper:**
+
+<em>Economic Tradeoffs and Institutional Guidance in Public Resource Allocation: Evidence from U.S. Public Lands</em> (<a href="https://mayaanorman.github.io/docs/jmp_abstract_10_9_26.pdf">abstract</a>)
+
 **Working papers:**
 
 click title for abstract
