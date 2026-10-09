@@ -34,7 +34,7 @@ Recycling — collecting discarded items and redeeming their scrap value — cha
 
 <div class="paper">
 <div class="paper__title"><a href="https://mayaanorman.github.io/docs/greenparadox.pdf"><em>Empirical Tests of the Green Paradox for Climate Legislation</em></a></div>
-<div class="paper__coauthor">with Wolfram Schlenker</div>
+<div class="paper__coauthor">with <a href="https://wolfram-schlenker.info/">Wolfram Schlenker</a></div>
 <p class="paper__abstract">
 The Green Paradox posits that fossil fuel markets respond to changing expectations about climate legislation, which limits future consumption, by shifting consumption to the present through lower present-day prices. We demonstrate that oil futures responded negatively to daily changes in the prediction market's expectations that the Waxman-Markey bill — the US climate bill discussed in 2009-2010 — would pass. This effect is consistent across various maturities as the proposed legislation would reset the entire price and consumption path, unlike temporary supply or demand shocks that phase out over time. The bill’s passage would have increased current global oil consumption by 2-4%. Furthermore, a strengthening of climate policy, as measured by monthly variations in media salience regarding climate policy over the last four decades, and two court rulings signaling limited future fossil fuel use, were associated with negative abnormal oil future returns. Taken together, our findings confirm that restricting future fossil fuel use will accelerate current-day consumption.
 </p>
@@ -44,7 +44,7 @@ The Green Paradox posits that fossil fuel markets respond to changing expectatio
 
 <div class="paper">
 <div class="paper__title"><em>Tracing the Formation and Origins of Standards in Environmental Review</em></div>
-<div class="paper__coauthor">with Simon Greenhill</div>
+<div class="paper__coauthor">with <a href="https://simondgreenhill.github.io/">Simon Greenhill</a></div>
 <p class="paper__abstract">
 How do conservation standards emerge and spread across environmental impact statements prepared by public land agencies? When conducting environmental review, local agency offices must weigh the benefits and costs of alternative land uses and publicly justify their decisions. Offices frequently defend their choices by citing established conservation standards rather than relying solely on the benefits and costs specific to each decision, which can be more burdensome to justify to stakeholders. We use large language models to construct a novel dataset tracing the origins and diffusion of these standards, investigating whether they spread through networks of influence among local offices or through the adoption of centrally issued guidance.
 </p>
