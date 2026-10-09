@@ -132,12 +132,12 @@ li ol {
 
   .paper__abstract {
     margin: 0.4em 0 0;
-    font-size: 0.75em;
+    font-size: 0.6em;
     text-align: left; /* justified text leaves gaps in a narrow column */
 
-    /* half the column width on larger screens; full width on phones */
+    /* a third of the column width on larger screens; full width on phones */
     @include breakpoint($medium) {
-      max-width: 50%;
+      max-width: 33%;
     }
   }
 
