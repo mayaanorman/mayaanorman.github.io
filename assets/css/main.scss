@@ -154,27 +154,6 @@ li ol {
   justify-content: flex-start;
 }
 
-/* CV button in the top bar, to the right of the name */
-.greedy-nav .visible-links a[href$=".pdf"] {
-  margin-left: 1rem;
-  padding: 0.1em 0.6em;
-  font-size: 1em;
-  font-weight: bold;
-  color: $primary-color;
-  border: 2px solid $primary-color;
-  border-radius: $border-radius;
-
-  /* drop the theme's hover underline bar */
-  &::before {
-    display: none;
-  }
-
-  &:hover {
-    color: #fff;
-    background-color: $primary-color;
-  }
-}
-
 html {
   font-size: 12px; //  when the screen size is less than $medium you have a base size of 12px
 
