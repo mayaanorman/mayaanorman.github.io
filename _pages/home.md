@@ -38,8 +38,11 @@ The Green Paradox posits that fossil fuel markets respond to changing expectatio
 </P>
 </details>
 
+**Selected work in progress:**
 
-
-
-
-
+<details><summary> <em>Tracing the Formation and Origins of Standards in Environmental Review w. Simon Greenhill</em> </summary>
+<HR WIDTH="80%">
+<P style="max-width:80%">
+How do conservation standards emerge and spread across environmental impact statements prepared by public land agencies? When conducting environmental review, local agency offices must weigh the benefits and costs of alternative land uses and publicly justify their decisions. Offices frequently defend their choices by citing established conservation standards rather than relying solely on the benefits and costs specific to each decision, which can be more burdensome to justify to stakeholders. We use large language models to construct a novel dataset tracing the origins and diffusion of these standards, investigating whether they spread through networks of influence among local offices or through the adoption of centrally issued guidance.
+</P>
+</details>

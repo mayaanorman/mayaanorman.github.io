@@ -110,6 +110,11 @@ li ol {
     font-size: $type-size-6;
   }
 
+  /* space between a list of papers and the next section heading */
+  details + p {
+    margin-top: 1.5em;
+  }
+
   /* job market paper: title split over two lines at the colon */
   .jmp {
     margin-bottom: 1.5em;
