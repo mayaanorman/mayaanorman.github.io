@@ -134,20 +134,30 @@ li ol {
   }
 }
 
-/* large CV button in the sidebar */
-.author__urls li a {
-  display: inline-block;
-  padding: 0.5em 1.25em;
-  font-size: 1.75em;
+/* large CV button in the top bar, to the right of the name */
+.greedy-nav .visible-links a[href$=".pdf"] {
+  margin-left: 0.5em;
+  padding: 0.25em 1em;
+  font-size: 1.4em;
   font-weight: bold;
+  color: $primary-color;
   border: 2px solid $primary-color;
   border-radius: $border-radius;
+
+  /* drop the theme's hover underline bar */
+  &::before {
+    display: none;
+  }
 
   &:hover {
     color: #fff;
     background-color: $primary-color;
-    text-decoration: none;
   }
+}
+
+/* the sidebar has no links left, so hide its empty "Follow" button */
+.author__urls-wrapper {
+  display: none;
 }
 
 html {
