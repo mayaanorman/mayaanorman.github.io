@@ -133,6 +133,10 @@ li ol {
 
   .paper__coauthor {
     font-size: 0.85em;
+
+    a {
+      text-decoration: none;
+    }
   }
 
   .paper__abstract {
@@ -143,6 +147,16 @@ li ol {
     /* two thirds of the column width on larger screens; full width on phones */
     @include breakpoint($medium) {
       max-width: 66%;
+    }
+  }
+
+  /* reading list: plain, compact list of book titles */
+  .reading-list {
+    padding-left: 1.25em;
+    font-size: 0.85em;
+
+    li {
+      margin-bottom: 0.3em;
     }
   }
 

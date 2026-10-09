@@ -49,3 +49,13 @@ The Green Paradox posits that fossil fuel markets respond to changing expectatio
 How do conservation standards emerge and spread across environmental impact statements prepared by public land agencies? When conducting environmental review, local agency offices must weigh the benefits and costs of alternative land uses and publicly justify their decisions. Offices frequently defend their choices by citing established conservation standards rather than relying solely on the benefits and costs specific to each decision, which can be more burdensome to justify to stakeholders. We use large language models to construct a novel dataset tracing the origins and diffusion of these standards, investigating whether they spread through networks of influence among local offices or through the adoption of centrally issued guidance.
 </p>
 </div>
+
+**Recommended environmental studies reads:**
+
+<ul class="reading-list">
+<li><em>Erosion: Essays of Undoing</em> by Terry Tempest Williams</li>
+<li><em>Braiding Sweetgrass</em> by Robin Wall Kimmerer</li>
+<li><em>Song for the Blue Ocean</em> by Carl Safina</li>
+<li><em>Nature’s Metropolis: Chicago and the Great West</em> by William Cronon</li>
+<li><em>Making Bureaucracies Think: The Environmental Impact Statement Strategy of Administrative Reform</em> by Serge Taylor</li>
+</ul>
