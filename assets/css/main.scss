@@ -159,9 +159,15 @@ li ol {
     }
   }
 
-  /* about section: one size below the section titles */
-  .about-list li {
-    font-size: $body-text-size;
+  /* about section: one size below the section titles, same width as paper titles */
+  .about-list {
+    @include breakpoint($medium) {
+      max-width: 75%;
+    }
+
+    li {
+      font-size: $body-text-size;
+    }
   }
 
   /* reading list: plain, compact list of book titles */
