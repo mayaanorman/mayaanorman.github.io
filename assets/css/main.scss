@@ -174,9 +174,9 @@ li ol {
     }
   }
 
-  /* extra space before the heading that follows a list of papers */
-  .paper + p {
-    margin-top: 2.5em;
+  /* section titles: big gap above (after the previous section), small gap below */
+  .section-title {
+    margin: 2.25em 0 0.6em;
   }
 
   /* blockquote citations */

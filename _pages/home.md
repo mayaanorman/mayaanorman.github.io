@@ -8,6 +8,8 @@ permalink: /
 **I am on the 2026-27 job market.**
 
 **About:**
+{: .section-title}
+
 - I am a sixth year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
 - I research how U.S. public institutions shape/are shaped by natural resource use and the environment.
 - Previously, I was a graduate fellow at the Department of Sanitation working for [Jennifer McDonnell](https://www.nyc.gov/site/dsny/about/leadership.page).
@@ -17,6 +19,7 @@ permalink: /
 {: .about-list}
 
 **Job market paper:**
+{: .section-title}
 
 <div class="paper">
 <div class="paper__title"><a href="https://mayaanorman.github.io/docs/jmp_abstract_10_9_26.pdf"><em>Economic Tradeoffs and Institutional Guidance in Public Resource Allocation: Evidence from U.S. Public Lands</em></a></div>
@@ -26,6 +29,7 @@ The US federal government owns nearly half of the Western United States, one of 
 </div>
 
 **Working papers:**
+{: .section-title}
 
 <div class="paper">
 <div class="paper__title"><a href="https://mayaanorman.github.io/docs/bottlebills.pdf"><em>The Importance of Earnings from Recycling</em></a></div>
@@ -44,6 +48,7 @@ The Green Paradox posits that fossil fuel markets respond to changing expectatio
 </div>
 
 **Selected work in progress:**
+{: .section-title}
 
 <div class="paper">
 <div class="paper__title"><em>Tracing the Formation and Origins of Standards in Environmental Review</em></div>
@@ -54,6 +59,7 @@ How do conservation standards emerge and spread across environmental impact stat
 </div>
 
 **Recommended environmental studies reads:**
+{: .section-title}
 
 <ul class="reading-list">
 <li><em>Nature’s Metropolis: Chicago and the Great West</em> by William Cronon</li>
