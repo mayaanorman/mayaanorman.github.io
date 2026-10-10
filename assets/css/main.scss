@@ -175,6 +175,11 @@ li ol {
     padding-left: 1.25em;
     font-size: $body-text-size;
 
+    /* same width as the about section and paper titles */
+    @include breakpoint($medium) {
+      max-width: 75%;
+    }
+
     li {
       margin-bottom: 0.3em;
     }
