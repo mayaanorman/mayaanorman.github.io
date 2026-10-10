@@ -11,7 +11,7 @@ permalink: /
 {: .section-title}
 
 - I am a sixth year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
-- I research how U.S. public institutions shape/are shaped by natural resource use and the environment.
+- I am an environmental economist studying how public institutions make environmental policy and how markets respond.
 - Previously, I was a graduate fellow at the Department of Sanitation working for [Jennifer McDonnell](https://www.nyc.gov/site/dsny/about/leadership.page).
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
