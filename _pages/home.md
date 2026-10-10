@@ -14,6 +14,7 @@ permalink: /
 - Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
 - Find my full CV [here](https://mayaanorman.github.io/docs/cv_fall_2026.pdf).
+{: .about-list}
 
 **Job market paper:**
 
