@@ -248,6 +248,24 @@ li ol {
   cursor: default;
 }
 
+/* tight spacing between the sidebar name and title, like claraberes.github.io */
+.author__name {
+  @include breakpoint($large) {
+    margin-bottom: 0.2em;
+  }
+}
+
+.author__bio {
+  @include breakpoint($large) {
+    margin-top: 0;
+    margin-bottom: 0.9em;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
 /* show "Columbia University" with a university icon instead of the location pin */
 .author__urls li[itemprop="homeLocation"] i::before {
   content: "\f19c"; /* Font Awesome building-columns */
