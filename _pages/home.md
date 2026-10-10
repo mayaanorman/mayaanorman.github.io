@@ -55,9 +55,9 @@ How do conservation standards emerge and spread across environmental impact stat
 **Recommended environmental studies reads:**
 
 <ul class="reading-list">
-<li><em>Erosion: Essays of Undoing</em> by Terry Tempest Williams</li>
 <li><em>Braiding Sweetgrass</em> by Robin Wall Kimmerer</li>
 <li><em>Song for the Blue Ocean</em> by Carl Safina</li>
 <li><em>Nature’s Metropolis: Chicago and the Great West</em> by William Cronon</li>
+<li><em>Erosion: Essays of Undoing</em> by Terry Tempest Williams</li>
 <li><em>Making Bureaucracies Think: The Environmental Impact Statement Strategy of Administrative Reform</em> by Serge Taylor</li>
 </ul>
