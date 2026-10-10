@@ -31,7 +31,7 @@ plugins:
 
 author:
   name   : "Maya A. Norman"
-  avatar :  "/assets/images/headshot.jpeg"
+  avatar :  "/assets/images/headshot_new_square.jpg"
   bio    : "PhD Candidate in<br>Sustainable Development"
   location: "Columbia University" # shown with a university icon (see main.scss)
   #  caption : '[**Fresh Kills Landfill**](https://www.collectorsweekly.com/articles/wp-content/uploads/2013/06/fresh-kills-landfill-2b41798576e074251-709x1024.jpg){:target="_blank"} (~ 1950)'
