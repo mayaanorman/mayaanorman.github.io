@@ -231,6 +231,28 @@ li ol {
   cursor: default;
 }
 
+/* CV link next to the name (like claraberes.github.io): same size as the name,
+   not bold, with the theme's underline bar on hover */
+.greedy-nav .visible-links {
+  justify-content: flex-start;
+
+  a {
+    margin-left: 1.5rem;
+    color: $text-color;
+  }
+}
+
+/* sidebar name is not a link */
+.author__name a {
+  pointer-events: none;
+  cursor: default;
+}
+
+/* show "Columbia University" with a university icon instead of the location pin */
+.author__urls li[itemprop="homeLocation"] i::before {
+  content: "\f19c"; /* Font Awesome building-columns */
+}
+
 html {
   font-size: 12px; //  when the screen size is less than $medium you have a base size of 12px
 
