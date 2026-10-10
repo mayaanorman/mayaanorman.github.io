@@ -13,7 +13,7 @@ permalink: /
 - I am a sixth year PhD student in [Sustainable Development](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University.
 - I am an environmental economist studying how public institutions make environmental policy and how markets respond.
 - Previously, I was a graduate fellow at the Department of Sanitation working for [Jennifer McDonnell](https://www.nyc.gov/site/dsny/about/leadership.page).
-- Previously, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
+- Before my PhD, I worked as a research assistant at the [Climate Impact Lab](https://impactlab.org/).
 - I hold a BA from Bowdoin College in Economics.
 - Find my full CV [here](https://mayaanorman.github.io/docs/cv_fall_2026.pdf).
 {: .about-list}
