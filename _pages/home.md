@@ -58,6 +58,14 @@ How do conservation standards emerge and spread across environmental impact stat
 </p>
 </div>
 
+<div class="paper">
+<div class="paper__title"><em>Weather Volatility, Food Waste and Firm Adaptation</em></div>
+<div class="paper__coauthor">with <a href="https://www.ing.uc.cl/academicos-e-investigadores/roberto-alfredo-zuniga-valladares/">Roberto Zúñiga</a></div>
+<p class="paper__abstract">
+Weather volatility can make consumer demand harder to predict, potentially increasing food waste at restaurants and grocery stores. Higher temperatures may also accelerate food spoilage, further increasing waste. Large chains can mitigate these effects by investing in inventory management and demand forecasting software, while smaller businesses may lack the resources to do so. Using quarterly establishment-level data on organic and non-organic waste collected in New York City from 2016 to the present, this project examines how weather volatility and temperature affect food waste. We then investigate whether larger chains are better equipped to mitigate these effects, shedding light on how firms' capacity to adapt to environmental conditions shapes both economic losses and environmental outcomes.
+</p>
+</div>
+
 **Recommended environmental studies reads:**
 {: .section-title}
 
