@@ -5,7 +5,7 @@ classes: wide
 permalink: /
 ---
 
-**I am on the 2026-27 job market.**
+**I am on the 2026-27 academic job market.**
 
 **About:**
 {: .section-title}
