@@ -148,6 +148,12 @@ li ol {
     font-size: $body-text-size;
   }
 
+  /* previous title of a renamed paper: small and italic */
+  .paper__old-title {
+    font-size: 0.6em;
+    font-style: italic;
+  }
+
   .paper__abstract {
     margin: 0.4em 0 0;
     font-size: $abstract-text-size;
