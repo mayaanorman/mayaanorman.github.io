@@ -148,10 +148,17 @@ li ol {
     font-size: $body-text-size;
   }
 
-  /* previous title of a renamed paper: small and italic */
+  /* previous title of a renamed paper: a quiet gray note between title and abstract */
   .paper__old-title {
-    font-size: 0.6em;
-    font-style: italic;
+    margin-top: 0.15em;
+    font-size: $abstract-text-size;
+    line-height: 1.4;
+    color: $muted-text-color;
+
+    /* same width as the abstract so it wraps with it instead of running past it */
+    @include breakpoint($medium) {
+      max-width: 66%;
+    }
   }
 
   .paper__abstract {
